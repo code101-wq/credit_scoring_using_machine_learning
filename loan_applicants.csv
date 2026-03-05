@@ -1,0 +1,248 @@
+﻿Age,Sex,Marital Status,Number of Dependents,Education Level,Employment Status,Job Title,Duration in Current Job,Net Monthly Income,Spouse Income,Expected Retirement Age,Existing Loans or Debts,Loan Repayment History,Membership Duration,Type of Collateral,Collateral Value,Loan Request,Status,y
+50,Male,Married,5,Bachelors,Employed,Teacher,8,70786,0,55,Yes,Late,6,Salary,70786,1200000,Approved,1
+36,Male,Married,5,Masters,Self employed,Business,1,128309,0,55,Yes,Defaulted,9,Land,1715579,900000,Approved,1
+43,Female,Married,5,Primary School,Self employed,Business,14,280606,0,55,No,On time,6,Land,1875073,2626000,Denied,0
+48,Male,Single,4,Primary School,Self employed,Business,9,96037,0,60,Yes,Defaulted,13,Land,1683393,3096000,Denied,0
+33,Male,Married,4,Bachelors,Employed,Teacher,5,46489,282311,55,Yes,Current,6,Salary,46489,2398000,Approved,1
+51,Female,Married,5,Primary School,Self employed,Business,7,145995,218475,60,Yes,Current,12,Land,1280432,2695000,Denied,0
+46,Female,Single,1,Primary School,Self employed,Business,2,104484,0,60,Yes,Current,7,Land,1138102,1024000,Denied,0
+38,Female,Married,6,High School,Self employed,Business,2,128147,131608,55,No,On time,13,Land,1413604,4184000,Approved,1
+55,Male,Married,3,Bachelors,Self employed,Business,12,115119,55849,55,No,Defaulted,10,Land,741145,3055000,Denied,0
+43,Male,Married,0,Primary School,Self employed,Business,11,139628,147872,55,Yes,Current,4,Land,1419049,3724000,Denied,0
+53,Female,Single,2,Primary School,Self employed,Business,2,114662,0,55,No,Current,3,Land,1618327,923000,Denied,0
+45,Female,Single,2,Masters,Self employed,Business,7,259938,0,55,No,On time,8,Land,1574823,2197000,Approved,1
+52,Male,Single,6,Bachelors,Self employed,Business,25,129644,0,55,Yes,Current,14,Land,707145,906000,Denied,0
+51,Male,Married,5,Bachelors,Employed,Mechanic,2,143201,0,55,No,Late,13,Land,1362316,332000,Approved,1
+51,Male,Married,2,Bachelors,Employed,Teacher,1,126211,0,55,Yes,On time,6,Salary,126211,549000,Approved,1
+36,Male,Married,1,Bachelors,Employed,Teacher,6,88403,192071,60,No,On time,7,Salary,88403,2897000,Approved,1
+53,Male,Single,5,Primary School,Employed,Driver,31,299505,113124,55,No,Late,10,Land,1474873,1820000,Approved,1
+38,Male,Single,4,Bachelors,Self employed,Business,13,82732,0,55,Yes,Late,4,Land,810183,4168000,Denied,0
+32,Male,Married,3,Primary School,Self employed,Business,5,173409,0,55,No,On time,14,Land,1784965,4074000,Denied,0
+57,Male,Married,2,Primary School,Self employed,Business,3,162185,44169,55,Yes,Defaulted,11,Land,1225362,2283000,Denied,0
+56,Male,Married,1,Primary School,Self employed,Business,5,94267,269168,55,No,Late,10,Land,1326130,1533000,Denied,0
+44,Male,Married,1,Bachelors,Employed,Teacher,11,46367,277742,60,Yes,On time,14,Salary,46367,3382000,Approved,1
+48,Male,Single,0,Masters,Self employed,Business,22,245741,0,55,Yes,Defaulted,1,Land,624342,4970000,Denied,0
+48,Female,Married,4,Bachelors,Employed,Teacher,3,79320,256355,55,No,Defaulted,5,Salary,79320,4300000,Denied,0
+55,Female,Single,6,Primary School,Self employed,Business,9,250363,0,55,Yes,Defaulted,12,Land,1296998,2946000,Denied,0
+34,Male,Married,5,Bachelors,Employed,Teacher,9,55301,0,60,No,On time,3,Salary,55301,4932000,Approved,1
+55,Male,Married,4,High School,Self employed,Business,30,171673,292524,55,Yes,Defaulted,5,Land,1685565,3487000,Denied,0
+48,Male,Married,1,Primary School,Self employed,Business,22,310000,0,60,No,Current,9,Land,1991002,2042000,Denied,0
+56,Male,Single,1,High School,Self employed,Business,1,102051,266881,55,Yes,Late,5,Land,1692404,3804000,Denied,0
+52,Female,Single,5,Bachelors,Employed,Teacher,28,108701,0,55,No,Defaulted,9,Salary,108701,4768000,Denied,0
+34,Male,Single,6,Bachelors,Employed,Teacher,1,47200,0,55,No,Late,4,Salary,47200,1000000,Approved,1
+46,Male,Married,1,Primary School,Self employed,Business,20,208023,55496,55,Yes,Late,12,Land,1457586,10000000,Denied,0
+54,Male,Married,4,Primary School,Self employed,Business,25,310000,177428,55,No,Late,11,Land,678518,5000000,Denied,0
+44,Female,Single,0,Bachelors,Employed,Teacher,5,42895,0,55,Yes,Current,11,Salary,42895,1000000,Approved,1
+49,Male,Married,6,Bachelors,Self employed,Business,15,130573,0,60,Yes,On time,8,Land,1877492,2000000,Denied,0
+38,Female,Single,5,Bachelors,Self employed,Business,11,92257,0,60,Yes,Current,12,Land,997843,1200000,Denied,0
+43,Male,Married,5,Primary School,Employed,Mechanic,16,95581,0,55,No,Defaulted,13,Land,965892,1200000,Denied,0
+33,Male,Married,1,Bachelors,Self employed,Business,3,148148,177887,60,Yes,Current,3,Land,1105432,1200000,Denied,0
+48,Male,Single,5,Masters,Self employed,Business,7,143455,0,55,Yes,Late,12,Land,1608735,15000000,Denied,0
+37,Male,Married,4,Primary School,Employed,Mechanic,3,257928,0,55,Yes,Defaulted,5,Land,718797,1000000,Denied,0
+50,Male,Married,6,High School,Self employed,Business,6,108366,103340,60,Yes,Defaulted,10,Land,806275,900000,Denied,0
+52,Male,Married,2,Bachelors,Employed,Teacher,22,86323,0,60,No,On time,7,Salary,86323,950000,Approved,1
+34,Male,Single,1,Bachelors,Self employed,Business,3,223248,0,55,No,Late,15,Land,1176059,2000000,Denied,0
+40,Female,Single,6,Bachelors,Employed,Teacher,17,48846,0,55,No,Defaulted,1,Salary,48846,1000000,Approved,1
+47,Male,Married,0,Bachelors,Employed,Mechanic,20,221307,124837,55,No,Defaulted,3,Land,1612059,1050000,Denied,0
+41,Male,Married,4,Masters,Employed,Mechanic,12,127297,295925,55,No,Current,15,Land,1639982,800000,Denied,0
+39,Male,Single,6,Bachelors,Employed,Teacher,13,86034,48800,55,No,Current,14,Salary,86034,1050000,Approved,1
+48,Male,Single,2,Bachelors,Employed,Cleaner,19,80000,279855,55,Yes,Late,2,Land,1085922,800000,Approved,1
+55,Female,Married,1,Bachelors,Employed,Teacher,22,113096,0,55,Yes,Defaulted,10,Salary,113096,1000000,Approved,1
+51,Male,Married,5,Bachelors,Self employed,Business,26,83229,0,60,Yes,Current,8,Land,1699561,18000000,Denied,0
+38,Male,Single,1,Bachelors,Self employed,Business,7,127661,0,60,Yes,Current,5,Land,1424691,900000,Approved,1
+58,Female,Married,0,Bachelors,Employed,Teacher,5,89176,258448,55,No,Current,2,Salary,89176,1050000,Denied,0
+36,Male,Married,3,Bachelors,Employed,Teacher,3,120048,0,55,No,Late,8,Salary,120048,1000000,Approved,1
+32,Male,Married,6,Bachelors,Employed,Teacher,4,149906,0,55,No,Defaulted,6,Salary,149906,1050000,Denied,0
+52,Male,Married,6,Bachelors,Employed,Teacher,10,45236,189222,55,Yes,Late,14,Salary,45236,1050000,Approved,1
+34,Male,Married,6,High School,Self employed,Business,9,141263,239424,60,Yes,Defaulted,8,Land,1431291,1000000,Approved,1
+54,Male,Married,6,Primary School,Self employed,Business,5,173622,0,55,Yes,On time,9,Land,967304,15000000,Denied,0
+34,Female,Single,6,Bachelors,Employed,Teacher,8,105922,0,55,Yes,Defaulted,13,Salary,105922,1000000,Denied,0
+49,Male,Married,1,Bachelors,Employed,Teacher,20,127695,0,60,No,Late,6,Salary,127695,800000,Denied,0
+42,Female,Single,4,High School,Self employed,Business,8,97353,0,55,Yes,Late,5,Land,699811,3589000,Denied,0
+56,Female,Married,4,Bachelors,Employed,Teacher,6,64483,186217,55,No,Defaulted,14,Salary,64483,4048000,Approved,1
+53,Male,Married,6,Bachelors,Self employed,Business,7,108741,135634,60,Yes,Current,7,Land,680218,1874000,Denied,0
+58,Male,Single,0,Bachelors,Employed,Builder,5,126041,0,55,No,Current,13,Land,1758573,3297000,Approved,1
+33,Male,Married,6,Primary School,Self employed,Business,7,133639,0,60,Yes,Late,5,Land,1189418,4499000,Approved,1
+51,Male,Married,1,Bachelors,Self employed,Business,1,141592,223685,60,No,On time,9,Land,1035487,3924000,Approved,1
+43,Male,Married,1,Bachelors,Employed,Teacher,14,80238,0,55,No,Defaulted,7,Salary,80238,4161000,Approved,1
+35,Male,Single,2,Bachelors,Self employed,Business,5,143310,165719,60,No,Defaulted,10,Land,1638721,2283000,Denied,0
+55,Female,Single,4,Primary School,Self employed,Business,31,117613,0,60,Yes,Defaulted,5,Land,1140234,1609000,Denied,0
+37,Female,Married,2,Bachelors,Self employed,Business,7,114346,227271,60,Yes,Current,15,Land,1716712,301000,Approved,1
+35,Female,Single,1,High School,Employed,Mechanic,8,111659,0,55,Yes,Current,13,Land,1956525,2561000,Approved,1
+43,Male,Married,2,High School,Self employed,Business,2,310000,165705,55,No,On time,6,Land,1616031,3530000,Denied,0
+46,Female,Single,0,Primary School,Self employed,Business,10,194860,0,60,No,Current,9,Land,930494,1377000,Denied,0
+32,Male,Married,6,Bachelors,Employed,Mechanic,5,100449,0,55,No,Current,8,Land,1417631,2443000,Approved,1
+49,Male,Single,4,Bachelors,Employed,Teacher,6,287717,0,55,No,On time,10,Salary,287717,1301000,Approved,1
+52,Male,Married,0,Bachelors,Self employed,Business,12,310000,0,60,Yes,Current,12,Land,1686382,4182000,Approved,1
+49,Male,Married,1,Primary School,Employed,Driver,2,105915,0,55,No,Defaulted,4,Land,1299321,800000,Approved,1
+42,Male,Single,5,Bachelors,Employed,Teacher,17,152544,60203,55,No,On time,2,Salary,152544,950000,Denied,0
+56,Male,Married,2,Primary School,Self employed,Business,6,147228,53776,55,No,Defaulted,6,Land,1682407,5000000,Denied,0
+46,Male,Married,4,Primary School,Self employed,Business,12,225722,0,55,Yes,Current,13,Land,1455346,18000000,Approved,1
+38,Male,Married,5,High School,Self employed,Business,5,148099,199538,55,Yes,Late,12,Land,848385,1000000,Denied,0
+53,Male,Married,4,Bachelors,Employed,Teacher,4,65960,0,55,Yes,Late,11,Salary,65960,950000,Approved,1
+33,Male,Married,6,Bachelors,Self employed,Business,10,96439,198306,55,No,Late,13,Land,814194,900000,Denied,0
+45,Male,Married,4,High School,Self employed,Business,3,139713,0,55,Yes,On time,8,Land,983510,2000000,Denied,0
+54,Female,Single,5,Primary School,Self employed,Business,31,93892,0,55,No,On time,9,Land,1887941,900000,Approved,1
+52,Male,Married,5,Primary School,Self employed,Business,19,275041,0,60,Yes,On time,2,Land,1139815,1200000,Denied,0
+52,Male,Married,4,Bachelors,Employed,Teacher,28,123929,0,55,No,Defaulted,6,Salary,123929,1000000,Approved,1
+43,Female,Married,2,Primary School,Self employed,Business,7,83340,81407,55,No,Late,1,Land,1040956,10000000,Denied,0
+36,Female,Married,3,Primary School,Self employed,Business,12,101414,88546,55,No,Defaulted,15,Land,1615030,2000000,Denied,0
+33,Male,Married,1,Masters,Employed,Carpenter,9,240353,0,55,No,On time,14,Land,1389999,1050000,Approved,1
+41,Male,Single,3,Primary School,Self employed,Business,15,165326,0,60,Yes,Late,13,Land,921254,1200000,Denied,0
+40,Male,Single,3,High School,Employed,Mechanic,3,310000,0,55,Yes,Late,13,Land,1115204,1000000,Approved,1
+55,Male,Married,6,Bachelors,Self employed,Business,2,310000,0,55,Yes,Defaulted,2,Land,836405,2000000,Denied,0
+33,Male,Married,3,Bachelors,Employed,Teacher,8,73283,0,55,No,On time,10,Salary,73283,950000,Approved,1
+48,Female,Single,5,High School,Employed,Cleaner,2,80000,0,55,Yes,Defaulted,9,Land,1010147,950000,Approved,1
+46,Male,Single,5,Bachelors,Self employed,Business,1,141126,134916,60,No,On time,1,Land,1950770,1200000,Approved,1
+52,Male,Married,3,Bachelors,Self employed,Business,12,247816,147716,55,Yes,Late,1,Land,1407688,1000000,Approved,1
+40,Male,Married,4,Bachelors,Employed,Teacher,18,68404,0,55,No,On time,4,Salary,68404,1000000,Approved,1
+41,Male,Married,0,Primary School,Self employed,Business,13,214202,0,60,No,Current,3,Land,1390826,2000000,Denied,0
+56,Female,Single,1,Bachelors,Self employed,Business,2,147519,0,60,Yes,Current,10,Land,1795618,18000000,Denied,0
+33,Male,Married,4,High School,Employed,Driver,11,116129,85050,55,Yes,On time,7,Land,1622296,950000,Approved,1
+54,Male,Married,1,High School,Self employed,Business,5,146461,0,60,No,Late,8,Land,1370954,5000000,Denied,0
+48,Male,Single,1,Bachelors,Self employed,Business,13,83381,0,60,Yes,Defaulted,10,Land,1389888,1200000,Approved,1
+48,Male,Married,2,Primary School,Self employed,Business,21,127814,0,60,No,Current,1,Land,1810971,900000,Approved,1
+55,Male,Married,2,Bachelors,Self employed,Business,18,119427,0,60,No,On time,5,Land,891081,900000,Denied,0
+51,Male,Married,3,Bachelors,Self employed,Business,15,145400,146707,60,No,Late,13,Land,1176421,10000000,Denied,0
+39,Female,Married,1,High School,Self employed,Business,8,134386,67304,60,Yes,On time,2,Land,1794034,15000000,Denied,0
+32,Male,Married,3,Bachelors,Employed,Teacher,2,140588,0,60,No,Late,14,Salary,140588,950000,Approved,1
+41,Male,Married,6,Bachelors,Self employed,Business,2,310000,122697,55,Yes,On time,1,Land,1120710,1000000,Approved,1
+43,Male,Married,1,Masters,Employed,Carpenter,6,243489,0,55,Yes,Late,5,Land,1648510,800000,Approved,1
+47,Male,Single,6,High School,Self employed,Business,5,85692,0,60,No,Current,14,Land,601257,1000000,Denied,0
+33,Male,Single,0,Bachelors,Employed,Cleaner,6,92729,196884,55,Yes,On time,10,Land,805448,1200000,Denied,0
+45,Female,Single,2,High School,Employed,Carpenter,2,61468,0,55,Yes,Late,9,Land,1632150,1050000,Approved,1
+48,Male,Married,5,Bachelors,Employed,Teacher,2,50667,234306,55,No,Current,3,Salary,50667,950000,Denied,0
+54,Male,Married,2,Bachelors,Employed,Builder,9,175549,238449,55,No,Current,10,Land,1505895,950000,Approved,1
+50,Male,Married,6,Primary School,Self employed,Business,4,141457,56635,60,Yes,Current,10,Land,1634756,18000000,Denied,0
+41,Female,Married,1,High School,Employed,Carpenter,13,178286,188535,55,Yes,Defaulted,7,Land,1954607,1200000,Approved,1
+56,Male,Single,6,High School,Self employed,Business,7,310000,0,60,Yes,Defaulted,3,Land,1442884,5000000,Denied,0
+46,Female,Single,5,Bachelors,Employed,Builder,22,90488,0,55,No,Defaulted,1,Land,1807038,4841000,Approved,1
+35,Male,Single,0,High School,Self employed,Business,3,240796,0,60,No,Late,4,Land,1695454,294000,Denied,0
+53,Male,Single,3,Primary School,Self employed,Business,23,110788,260413,55,Yes,Defaulted,10,Land,1090309,2810000,Approved,1
+50,Male,Single,1,Bachelors,Employed,Teacher,9,52230,0,60,No,Defaulted,5,Salary,52230,494000,Approved,1
+54,Female,Single,5,High School,Self employed,Business,19,261503,0,55,No,Defaulted,10,Land,1464005,1993000,Approved,1
+57,Female,Married,3,Bachelors,Employed,Driver,1,147168,133136,55,No,On time,4,Land,1248378,4126000,Approved,1
+54,Female,Married,5,Bachelors,Employed,Teacher,22,139165,197208,55,No,Late,11,Salary,139165,2898000,Approved,1
+51,Female,Married,5,Bachelors,Employed,Teacher,11,67217,182254,55,Yes,Current,4,Salary,67217,3266000,Approved,1
+48,Female,Single,3,High School,Self employed,Business,1,235437,0,60,No,On time,6,Land,613368,538000,Denied,0
+47,Male,Single,6,High School,Self employed,Business,5,310000,201796,60,No,Late,3,Land,1300265,950000,Denied,0
+38,Male,Married,6,Primary School,Employed,Driver,15,310000,0,55,Yes,Defaulted,5,Land,1379748,1724000,Approved,1
+48,Male,Married,4,Primary School,Self employed,Business,24,113438,265224,60,No,On time,11,Land,981466,1255000,Denied,0
+34,Male,Married,1,Bachelors,Employed,Teacher,4,149475,0,60,Yes,On time,14,Salary,149475,1337000,Approved,1
+32,Male,Married,6,Bachelors,Employed,Teacher,3,85010,290701,55,No,Late,2,Salary,85010,3641000,Approved,1
+41,Male,Married,3,Bachelors,Employed,Teacher,16,112419,0,55,No,Late,7,Salary,112419,2878000,Approved,1
+44,Male,Single,3,Bachelors,Employed,Teacher,21,153164,165676,60,No,On time,5,Salary,153164,1941000,Denied,0
+38,Male,Married,1,High School,Self employed,Business,6,130583,173589,60,Yes,On time,13,Land,1313584,1822000,Approved,1
+46,Male,Married,3,Bachelors,Employed,Cleaner,3,80000,284014,55,Yes,Current,6,Land,1551054,3119000,Approved,1
+36,Male,Married,4,Primary School,Employed,Mechanic,11,149704,0,55,Yes,Current,10,Land,744528,1598000,Denied,0
+37,Male,Married,5,High School,Self employed,Business,15,176068,290610,55,Yes,Late,3,Land,780271,2115000,Denied,0
+53,Male,Married,5,Primary School,Self employed,Business,6,177007,0,55,No,Late,6,Land,807849,1708000,Denied,0
+32,Male,Married,0,Bachelors,Employed,Carpenter,10,91217,0,55,No,On time,9,Land,941438,2173000,Denied,0
+42,Male,Single,1,High School,Self employed,Business,14,144436,233018,55,Yes,Defaulted,2,Land,694391,1505000,Denied,0
+45,Male,Single,3,Primary School,Employed,Mechanic,15,111753,0,55,Yes,Current,1,Land,1838443,4251000,Approved,1
+47,Male,Married,4,Bachelors,Self employed,Business,11,89529,0,55,No,Current,5,Land,1563338,1934000,Denied,0
+51,Female,Single,0,Bachelors,Employed,Teacher,1,57727,0,55,Yes,Late,3,Salary,57727,4452000,Denied,0
+52,Male,Married,1,High School,Self employed,Business,1,109660,142380,60,No,Defaulted,15,Land,1162690,2759000,Denied,0
+53,Female,Single,5,Primary School,Self employed,Business,1,90290,0,55,Yes,Defaulted,2,Land,1700163,4402000,Denied,0
+42,Male,Married,1,Bachelors,Self employed,Business,5,257284,266983,55,No,Current,2,Land,1513963,2862000,Denied,0
+46,Male,Married,3,Primary School,Employed,Builder,3,263081,144408,55,No,Current,7,Land,602552,3487000,Denied,0
+51,Male,Married,4,Bachelors,Employed,Teacher,11,56955,101949,55,No,Late,11,Salary,56955,2061000,Approved,1
+50,Male,Married,0,Bachelors,Self employed,Business,6,88398,0,60,No,On time,10,Land,971102,1858000,Denied,0
+43,Male,Married,6,Bachelors,Employed,Teacher,6,50522,0,60,Yes,Late,15,Salary,50522,1992000,Approved,1
+43,Male,Married,4,Bachelors,Self employed,Business,16,105401,0,60,No,Defaulted,5,Land,811181,2870000,Denied,0
+51,Male,Married,4,Bachelors,Self employed,Business,4,109573,127602,60,Yes,Current,3,Land,1478582,1011000,Approved,1
+55,Female ,Married ,3,Bachelors ,Employed,Hotelier ,20,160000,200000,60,No,On time,15,Land,426000,325000,Approved,1
+23,Female ,Single,0,High School ,Employed,Cleaner,3,132975,0,50,No,Current,2,Salary,132975,1541000,Approved,1
+48,Male,Married ,4,Primary School,Self employed ,Builder,30,200000,50000,50,Yes,Current,5,Land,1500000,1190000,Approved,1
+40,Male,Married ,4,Primary School,Self employed ,Driver,8,200000,45000,50,No,Current,5,Land,2000000,2411000,Approved,1
+49,Male,Married ,3,High School ,Self employed ,Business ,30,150000,200000,60,No,Current,10,Savings ,2000000,4933000,Approved,1
+36,Male,Married ,2,Bachelors ,Employed,Social Affairs ,8,130407,80000,60,No,current,10,Land,765000,2190000,Approved,1
+50,Female ,Single,1,Bachelors ,Employed,Administrator,10,252524,0,60,No,Current,5,Land,2500000,2111000,Approved,1
+63,Male,Married ,0,High School ,Unemployed ,0,0,0,0,0,No,Current,15,Savings ,174619,355000,Approved,1
+31,Male,Single,0,Bachelors ,Employed,Teacher,9,276650,0,60,No,Current,7,Salary,276650,4345000,Approved,1
+35,Female ,Married ,4,Bachelors ,Employed,Teacher,13,293669,300000,60,No,Current,5,Salary,293669,417000,Approved,1
+38,Male,Single,2,High School ,Self employed ,Carpenter ,20,192000,0,50,Yes,Defaulted,12,Land,2000000,3772000,Denied,0
+33,Female ,Single,1,High School ,Self employed , Business,13,250000,0,60,No,Current,1,Land,1500000,751000,Approved,1
+39,Male,Single,2,Primary School,Employed,Security ,10,165000,0,50,No,Current,10,Land,500000,1913000,Approved,1
+32,Male,Single,0,Degree,Employed,Accountant,4,197000,0,60,Yes,On time,4,Land,5600000,3266000,Approved,1
+33,Male,Single,0,High School ,Self employed ,Builder,7,96871,0,60,Yes,Late,1,Land,750000,630000,Denied,0
+35,Male,Married ,4,Degree,Self employed ,Business ,10,300000,50000,60,No,Current,2,Savings ,845000,1837000,Approved,1
+48,Male,Married ,5,High School ,Self employed ,Builder,18,200000,40000,55,Yes,Late,5,Land,1000000,201000,Denied,0
+49,Female ,Married ,2,Degree,Self employed ,Business ,20,150000,230000,60,Yes,On time,10,Land,2300000,2629000,Approved,1
+38,Male,Married ,2,Degree,Employed,Social Affairs ,9,132047,60758,60,No,Current,10,Land,830000,1215000,Approved,1
+50,Male,Married ,3,Masters,Employed,Administrator,20,205524,150250,60,No,Current,5,Land,1230050,4323000,Approved,1
+35,Male,Married ,5,Degree,Self employed ,Business ,10,300000,0,60,Yes,Defaulted,2,Land,930200,766000,Denied,0
+63,Male,Married ,2,High School ,Unemployed ,0,0,0,0,0,No,Current,15,Savings ,250576,232000,Approved,1
+28,Male,Single,0,Primary School,Employed,Security ,5,58000,0,55,Yes,Late,1,Land,1420000,3775000,Denied,0
+47,Male,Married ,4,High School ,Employed,Driver,10,250000,50678,55,Yes,On time,10,Land,980750,160000,Approved,1
+29,Male,Single,0,High School ,Self employed ,Business ,3,200000,0,60,No,Current,5,Land,2100000,1210000,Approved,1
+60,Male,Married ,2,Bachelors ,Unemployed ,0,0,0,0,0,No,Current,15,Savings ,537630,653000,Approved,1
+42,Male,Married ,5,Bachelors ,Employed,Civil servants ,15,236789,170500,60,No,On time,5,Land,1890250,1707000,Approved,1
+46,Male,Married ,3,Bachelors ,Employed,Civil servants ,18,250000,180000,60,No,Current,6,Land,1170800,524000,Approved,1
+46,Male,Married ,1,Bachelors ,Employed,Teacher,20,160000,80450,60,Yes,Current,6,Salary,160000,1481000,Approved,1
+54,Female ,Married ,3,High School ,Employed,Teacher,26,40265,120000,55,No,Current,8,Salary,40265,4959000,Approved,1
+48,Male,Married ,4,High School ,Employed,Teacher,24,60874,45000,55,No,Current,8,Salary,60874,577000,Approved,1
+35,Male,Married ,6,High School ,Self employed,Business ,8,150000,0,60,No,current,5,Land,1500000,4956000,Approved,1
+60,Female ,Married ,2,Bachelors , Unemployed,0,0,0,0,0,No,Current,15,Savings ,370550,342000,Approved,1
+29,Male,Single,0,Bachelors ,Self employed ,Business ,4,130000,0,60,No,Current,5,Land,2000000,1211000,Approved,1
+52,Female ,Married ,4,Bachelors ,Employed,Nurse,20,160000,200000,60,No,Current,15,Land,700000,166000,Approved,1
+26,Male,Married ,1,Primary School,Self Employed ,Carpenter ,8,200000,0,60,No,Current,7,Land,4000000,2464000,Approved,1
+32,Male,Single,0,Bachelors ,Employed,Engineer,6,400000,0,60,No,Current,9,Savings ,830000,3653000,Approved,1
+43,Male,Married ,5,Bachelors ,Self Employed ,Contractor,12,250000,100500,60,No,Current,12,Land,2350730,1038000,Approved,1
+40,Male,Married ,3,Primary School,Self Employed ,Driver,10,200000,0,55,No,On time,10,Land,1420000,1862000,Approved,1
+42,Female ,Single,3,Bachelors ,Employed,Teacher,12,164225,0,60,No,Current,2,Land,3750000,2887000,Approved,1
+40,Female ,Married ,4,High School ,Self Employed ,Business ,13,200000,45000,60,Yes,Defaulted,10,Land,650000,1774000,Denied,0
+26,Female ,Single,0,Bachelors ,Self Employed ,Business ,2,300000,0,60,No,On time,2,Land,1890250,3046000,Approved,1
+42,Male,Married ,5,High School ,Self Employed ,Mechanic ,10,150000,0,60,No,Current,5,Land,2100000,1009000,Approved,1
+43,Female ,Married ,2,Masters,Employed,Journalist(CRTV) ,16,250000,350000,60,Yes,Current,10,Land,380000,4461000,Approved,1
+29,Female ,Married ,4,Bachelors ,Employed,Teacher,5,245000,287000,60,No,Late,6,Land,4800000,2733000,Denied,0
+30,Male,Single,0,Bachelors ,Self Employed ,Business ,4,200000,0,60,No,Late,5,Land,2350000,1168000,Denied,0
+51,Male,Married ,1,High School ,Self Employed ,Business ,25,600000,145000,60,No,Current,10,Savings ,250000,2803000,Approved,1
+55,Female ,Married ,3,Bachelors ,Employed,Pastor ,25,200000,230000,60,No,Current,10,Land,4200000,2912000,Approved,1
+33,Female ,Single,1,Bachelors ,Self Employed ,Business ,5,250000,0,60,No,On time,1,Land,820000,711000,Approved,1
+32,Male,Married ,3,Bachelors ,Employed,Civil servant,6,235450,159000,60,No,Current,6,Land,1150000,994000,Approved,1
+33,Female ,Single,0,Primary School,Self employed ,Business ,7,150000,0,60,No,Defaulted,1,Land,480000,4789000,Denied,0
+39,Male,Single,2,Primary School,Employed,Security ,5,165000,0,60,No,Current,10,Land,3700000,2274000,Approved,1
+37,Male,Married ,3,High School ,Employed,Teacher,9,82000,42250,60,No,Current,1,Salary,82000,2917000,Approved,1
+40,Male,Married ,1,High School ,Employed,Teacher,12,160000,50500,60,No,On time,10,Salary,160000,2876000,Approved,1
+53,Male,Married,0,Masters,Employed,Journalist,23,181765,68800,60,No,Current,15,Land,2525000,2605000,Approved,1
+52,Male,Married,6,Primary School,Self employed,Mechanic,24,150000,50000,60,No,Late,4,Land,966844,2920000,Approved,1
+37,Female,Single,1,Bachelors,Employed,Accountant,7,237318,0,60,No,Current,6,Land,5000000,804000,Approved,1
+31,Male,Married,0,Primary School,Self employed,Contractor,3,200000,150000,60,No,Current,9,Land,1500000,2434000,Approved,1
+25,Male,Single,0,Bachelors,Employed,Civil Servant,1,150025,0,60,No,Current,2,Security ,200000,360000,Approved,1
+35,Male,Single,0,Masters,Employed,Journalist,7,170000,0,60,Yes,Defaulted,13,Land,700000,2250000,Denied,0
+27,Male,Single,0,High School,Employed,Contractor,2,280000,0,60,No,Current,2,Security ,300000,3248000,Approved,1
+40,Male,Married,4,Bachelors,Employed,Engineer,8,340000,250000,60,No,Current,6,Land,5000000,445000,Approved,1
+42,Male,Married,6,High School,Employed,Security,8,100000,50000,60,No,On time,13,Security ,350000,1383000,Approved,1
+37,Male,Married,3,Primary School,Employed,Security,8,90500,0,60,No,Defaulted,10,Salary,90000,827000,Denied,0
+51,Female,Single,4,Primary School,Employed,Cleaner,19,65000,0,60,Yes,Current,10,Salary,65000,1879000,Approved,1
+30,Male,Single,0,Bachelors,Employed,Teacher,4,139435,0,60,No,Current,4,Salary,43500,3509000,Approved,1
+37,Male,Married,2,Bachelors,Employed,Teacher,8,179550,150000,60,No,Late,5,Land,3500000,2669000,Approved,1
+51,Female,Married,2,Bachelors,Employed,Administrator,12,287500,350000,60,No,Current,13,Savings,500000,2209000,Approved,1
+53,Male,Married,2,High School,Self employed,Business ,29,250000,75000,60,No,Current,7,Land ,2500000,4501000,Approved,1
+49,Male,Married,5,Primary School,Employed,Security,8,90000,25000,60,No,Defaulted,12,Salary,90000,482000,Denied,0
+46,Male,Married,3,High School,Self employed,Business ,5,150000,0,60,No,On time,5,Land,345000,2958000,Approved,1
+50,Female,Married,2,Bachelors,Employed,Business ,13,250000,350000,60,Yes,Defaulted,4,Land,1450000,1373000,Denied,0
+38,Male,Married,2,High School,Self employed,Mechanic,13,165493,0,60,No,Defaulted,8,Salary,2517680,4484000,Denied,0
+33,Male,Married,1,High School,Self employed,Business ,2,132666,169858,60,No,Current,14,Land,2220304,1870000,Approved,1
+25,Male,Married,5,High School,Employed,Driver,3,107460,173728,60,No,Current,7,Land,1581785,2543000,Approved,1
+35,Male,Single,6,Primary School,Self employed,Business ,12,340977,0,60,No,Defaulted,4,Savings,3641316,1759000,Denied,0
+52,Female,Married,0,Bachelors,Employed,Journalist,18,154165,0,60,Yes,Defaulted,9,Savings,2655003,4875000,Denied,0
+54,Male,Married,1,High School,Employed,Business ,17,150527,91889,60,Yes,On time,1,Land,585183,775000,Approved,1
+47,Male,Married,2,Primary School,Self employed,Builder,4,140860,0,60,No,Current,12,Savings,1743797,274000,Approved,1
+47,Male,Single,3,High School,Self employed,Mechanic,23,126792,0,60,Yes,Defaulted,14,Salary,1875922,4225000,Denied,0
+31,Female,Married,5,Bachelors,Employed,Business ,2,198264,89591,60,No,Current,13,Salary,1216514,2518000,Approved,1
+41,Male,Married,5,High School,Self employed,Business ,17,274648,0,60,Yes,Late,9,Salary,2996211,4417000,Approved,1
+46,Female,Single,1,Masters,Employed,Teacher,14,195699,0,60,No,Current,4,Savings,818255,3808000,Approved,1
+27,Male,Single,0,Bachelors,Employed,Business ,4,490317,120767,60,No,On time,7,Salary,4265954,2107000,Approved,1
+46,Male,Married,2,High School,Self employed,Mechanic,16,101902,94868,60,Yes,On time,9,Salary,2845099,4281000,Approved,1
+29,Female,Single,3,Bachelors,Employed,Administrator,2,298216,0,60,Yes,Current,4,Savings,1706912,1699000,Approved,1
+45,Male,Married,6,Bachelors,Employed,Teacher,5,287260,0,60,Yes,Defaulted,12,Salary,1865973,2604000,Denied,0
+64,Male,Married,3,Bachelors,Employed,Business ,18,155372,0,60,Yes,Current,1,Savings,3133961,3264000,Approved,1
+34,Male,Married,4,Bachelors,Employed,Teacher,7,207841,296500,60,No,Defaulted,3,Land,2681452,3339000,Denied,0
+42,Female,Married,3,Bachelors,Employed,Civil Servant,1,165514,0,60,No,Current,12,Salary,4093280,1309000,Denied,0
+34,Male,Married,1,High School,Employed,Builder,1,143056,0,60,No,Current,10,Land,2625788,3288000,Denied,0
+55,Male,Married,1,Masters,Employed,Civil Servant,21,171320,285237,60,Yes,Defaulted,14,Savings,4214752,943000,Denied,0
+31,Male,Married,6,High School,Self employed,Business ,5,333266,93738,60,No,On time,3,Salary,1256666,3557000,Approved,1
+27,Male,Single,3,Primary School,Self employed,Business ,5,118238,0,60,No,Current,11,Land,1335198,3968000,Approved,1
+52,Male,Married,1,High School,Self employed,Mechanic,21,137519,162359,60,Yes,On time,7,Land,4183739,2609000,Approved,1
